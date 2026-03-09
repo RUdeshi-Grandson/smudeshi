@@ -4,7 +4,7 @@ const apps = [
     description: "A collection of puzzles designed to improve memory and vocabulary.",
     platform: "iOS",
     store: "https://apps.apple.com/app/idXXXXXXXX",
-    status: "live"
+    status: "coming soon"
   },
   {
     name: "VartaFM",
