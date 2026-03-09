@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "name": "RU Games: Word & Brain Puzzles",
+      "description": "A collection of puzzles designed to improve memory and vocabulary.",
+      "platform": "iOS",
+      "store": "https://apps.apple.com/app/idXXXXXXXX",
+      "status": "live"
+    },
+    {
+      "name": "VartaFM",
+      "description": "Audio stories and immersive storytelling experience.",
+      "platform": "iOS",
+      "store": "#",
+      "status": "coming soon"
+    },
+    {
+      "name": "KidNova",
+      "description": "Interactive learning platform for children.",
+      "platform": "iPad + iPhone",
+      "store": "#",
+      "status": "coming soon"
+    }
+  ]
+}
